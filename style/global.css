@@ -15,7 +15,7 @@
 
 :root{
 
-    --brand-gradient: linear-gradient(#FC4A1A, #F7B733) ;
+    --brand-gradient: linear-gradient(90deg, #FC4A1A 0%, #F7B733 100%);
     --brand-color-primary: #F7B733;
     --brand-color-secondary: #FC4A1A;
 
