@@ -10,8 +10,8 @@
     padding-block: var(--py-xl);
 }
 
-.pg-lg{
-    padding-inline: var(--pg-lg);
+.px-lg{
+    padding-inline: var(--px-lg);
 }
 
 .container{
